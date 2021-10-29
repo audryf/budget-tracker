@@ -1,4 +1,4 @@
-# Social Network API
+# Budget Tracker
 <img width="938" alt="Screen Shot 2021-10-28 at 7 24 24 PM" src="https://user-images.githubusercontent.com/84256033/139353674-05d69b01-1c2e-48d9-b0cb-077131ff0861.png">
 <br>
 <br>
